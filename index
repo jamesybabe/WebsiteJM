@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>James McEwan - Home</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" href="styles/simplebar.min.css">
+
+    
+</head>
+<body>
+<header>
+<h1>James McEwan</h1>
+</header>
+   
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="research.html">Research Overview</a></li>
+            <li><a href="publications.html">Publications</a></li>
+            <li><a href="skills.html">Skills</a></li>
+            <li><a href="cv.pdf" target="_blank">Curriculum Vitae</a></li>
+            <li><a href="contact.html">Contact Me</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div id="content-wrapper">
+            <section id="blog-news-updates">
+                <!-- Blog/News/Updates Section: Add your latest news or blog posts here -->
+                <h2>Latest News</h2>
+                <p>[Insert news or blog updates here]</p>
+            </section>
+            <section id="about-me">
+                <div class="AboutMeText" data-simplebar style="max-height: 300px;">
+                    <h2>About Me</h2>
+                    <p>Hello! I'm James McEwan, a dedicated and experienced researcher with a profound passion for criminology and evidence-based research. Over the past five years, I have delved deeply into various aspects of criminal justice and social science, exploring areas like criminal justice interventions, police misconduct, terrorism, road policing, child exploitation, and domestic and family violence. This diverse experience has equipped me with a comprehensive knowledge base, enabling me to effectively address emerging corruption risks and threats.
+    
+                    My academic background in psychology, coupled with extensive expertise in research methodology, statistical analysis, and software tools such as SPSS, STATA, and R, positions me uniquely in the field. I have a proven track record in conducting systematic reviews and translating complex research findings into actionable insights for various stakeholders. My work is characterized by a commitment to integrity and ethical research practices, exemplified by my groundbreaking use of highly sensitive Microdata in my honours thesis.
+    
+                    At the core of my approach lies innovative thinking and adaptability. I embrace technological advancements, including AI and machine learning, to enhance research outputs and address strategic challenges. My abstract thinking skills enable me to tackle new challenges creatively and effectively.
+    
+                    Collaboration is a cornerstone of my professional ethos. I have a history of fruitful engagements with criminal justice officials, academics, and industry partners, and my communication skills are finely honed for both stakeholder engagement and mentoring other researchers.
+    
+                    I am excited about the prospect of contributing my skills and knowledge to organizations that value transparency, integrity, and data-driven research. My commitment to these principles aligns with my goal of promoting positive change and addressing social issues through rigorous, insightful research.</p>
+                </div>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <!-- Footer: Add footer content here -->
+        <p>[Insert footer content here]</p>
+    </footer>
+    <script src="styles/simplebar.min.js"></script>
+</body>
+</html>
